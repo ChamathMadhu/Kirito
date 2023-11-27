@@ -1,0 +1,4 @@
+Here 0 means available seats and 1 means the seats which are booked : 
+row 1 : [1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+row 2 : [0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+row 3 : [0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
